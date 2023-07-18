@@ -18,5 +18,4 @@ Whether you are a hiring manager looking to improve your interviewing skills or 
 
 So, let's dive into "The Art of Interviewing: Techniques for Conducting Effective Interviews and Selecting the Right Candidates" and discover how to master the art of interviewing and select the best candidates for your organization.
 
-
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
