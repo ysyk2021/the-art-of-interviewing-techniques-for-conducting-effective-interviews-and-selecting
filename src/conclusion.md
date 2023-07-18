@@ -1,8 +1,5 @@
 # Conclusion
 
-Conclusion
-==========
-
 In this book, we have explored the art of interviewing and provided techniques for conducting effective interviews and selecting the right candidates. We have covered essential topics, such as understanding the hiring process, preparing for the interview, developing effective interview questions, conducting ethical and legal interviews, evaluating candidates, and extending job offers and onboarding new employees.
 
 Summary of Key Points
