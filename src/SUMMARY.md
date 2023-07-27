@@ -2,7 +2,6 @@
 
 - [Chapter 1: Introduction](README.md)
   - [The importance of effective interviewing in hiring](chapter-1-1.md)
-  - [Overview of the book's contents](chapter-1-2.md)
 - [Chapter 2: Understanding the Hiring Process](chapter-2.md)
   - [Different types of interviews and their purposes](chapter-2-1.md)
   - [What to expect during the hiring process](chapter-2-2.md)
