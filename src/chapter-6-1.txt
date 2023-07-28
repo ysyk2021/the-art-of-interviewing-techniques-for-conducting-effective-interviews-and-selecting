@@ -1,1 +1,0 @@
-for the book "the art of interviewing techniques for conducting effective interviews and selecting the right candidates", write a chapter: "evaluating technical and functional skills".  Use Markdown format. Use English.

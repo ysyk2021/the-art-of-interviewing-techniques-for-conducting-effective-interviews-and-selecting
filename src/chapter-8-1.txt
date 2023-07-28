@@ -1,1 +1,0 @@
-for the book "the art of interviewing techniques for conducting effective interviews and selecting the right candidates", write a chapter: "evaluating and comparing candidates".  Use Markdown format. Use English.
