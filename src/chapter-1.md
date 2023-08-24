@@ -1,5 +1,3 @@
-Chapter 1: Introduction
-=======================
 
 Effective interviewing is essential to selecting the right candidate and building a successful team. This chapter will cover the importance of effective interviewing in hiring and provide an overview of the book's contents.
 

@@ -1,5 +1,3 @@
-Chapter 3: Preparing for the Interview
-======================================
 
 Preparing for the interview is essential to conducting an effective interview and selecting the right candidate. This chapter will cover techniques for crafting effective job descriptions and candidate profiles, identifying essential skills, knowledge, and experience, and developing interview questions and evaluation criteria.
 

@@ -1,5 +1,3 @@
-Chapter 5: Behavioral Interviewing Techniques
-=============================================
 
 Behavioral interviewing is a popular technique used by hiring managers to assess a candidate's past behavior and performance in situations relevant to the job. This chapter will cover the STAR method for answering behavioral questions, using behavioral interviewing to assess a candidate's past performance, and tips for assessing cultural fit and alignment with company values.
 

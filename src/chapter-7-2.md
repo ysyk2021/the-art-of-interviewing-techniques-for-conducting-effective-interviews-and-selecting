@@ -1,5 +1,3 @@
-Strategies for minimizing bias in the hiring process
-============================================================================================================
 
 Unconscious bias can have a significant impact on the hiring process, leading to unfair and inaccurate candidate evaluations. As interviewers, it is essential to be aware of our own biases and take steps to minimize their influence on the selection process. In this chapter, we explore strategies for overcoming unconscious bias in interviewing to ensure that the right candidates are selected.
 

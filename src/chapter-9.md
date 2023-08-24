@@ -1,5 +1,3 @@
-Chapter 9: Onboarding and Beyond
-================================
 
 Onboarding is the process of integrating new employees into an organization. It is a critical step in the hiring process that can set the tone for the employee's entire tenure with the company. A successful onboarding program can help new employees quickly acclimate to their roles, build relationships with colleagues, and understand the company's culture and values.
 

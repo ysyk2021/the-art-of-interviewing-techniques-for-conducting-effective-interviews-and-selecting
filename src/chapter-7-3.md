@@ -1,4 +1,3 @@
-# Tools and Resources for Creating a More Inclusive Hiring Process
 
 In this chapter, we will explore various tools and resources that can assist in creating a more inclusive hiring process. These tools are designed to minimize bias, increase diversity, and ensure fair evaluation and selection of candidates. By utilizing these resources, interviewers can enhance their ability to identify and attract a diverse pool of qualified candidates.
 

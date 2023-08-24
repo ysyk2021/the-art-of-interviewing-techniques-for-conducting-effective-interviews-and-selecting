@@ -1,5 +1,3 @@
-Future Directions for Improving the Art of Interviewing and Hiring
-==============================================================================
 
 In this book, we have discussed the importance of mastering the art of interviewing to select the best-suited candidates for your organization. Our focus has been on providing readers with practical techniques and strategies that they can use to conduct effective interviews and evaluate candidates fairly and objectively.
 

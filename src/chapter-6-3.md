@@ -1,4 +1,3 @@
-# Using Competency-Based Interviewing to Evaluate Potential
 
 In this chapter, we will explore the concept of competency-based interviewing and how it can be effectively used to evaluate the potential of candidates during the interview process. Competency-based interviewing is a structured approach that focuses on assessing a candidate's specific skills, behaviors, and attributes required for success in a particular role. By utilizing this technique, you can gain valuable insights into a candidate's capabilities and make informed decisions when selecting the right candidates for your organization.
 

@@ -1,5 +1,3 @@
-Chapter 7: Overcoming Unconscious Bias in Interviewing
-======================================================
 
 Unconscious bias is a natural part of the human brain's decision-making process, but it can lead to unfair and discriminatory hiring practices. Overcoming unconscious bias is essential to creating a fair and inclusive interviewing process. This chapter will cover techniques for understanding and identifying unconscious bias, strategies for minimizing bias in the hiring process, and tools and resources for creating a more inclusive hiring process.
 

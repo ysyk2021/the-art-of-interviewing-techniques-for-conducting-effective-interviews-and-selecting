@@ -1,5 +1,3 @@
-Using Behavioral Interviewing to Assess Candidate's Past Performance
-===================================================================================================================
 
 Behavioral interviewing is a technique used to assess past performance by asking candidates to provide specific examples of how they have handled situations in the past. This chapter will discuss the benefits of using behavioral interviewing techniques and strategies for conducting effective behavioral interviews.
 

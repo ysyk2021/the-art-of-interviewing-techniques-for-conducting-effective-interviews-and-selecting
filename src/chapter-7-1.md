@@ -1,4 +1,3 @@
-# Understanding and Identifying Unconscious Bias in the Interview Process
 
 In this chapter, we will explore the concept of unconscious bias and its impact on the interview process. Understanding and identifying unconscious bias is crucial to conducting fair and objective interviews, ensuring that the right candidates are selected based on their qualifications and fit for the role, rather than being influenced by biases.
 

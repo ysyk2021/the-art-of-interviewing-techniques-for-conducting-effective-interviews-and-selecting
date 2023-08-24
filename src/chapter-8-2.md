@@ -1,4 +1,3 @@
-# Making Informed and Objective Hiring Decisions
 
 In this chapter, we will explore strategies for making informed and objective hiring decisions. Selecting the right candidate requires careful consideration of all available information while minimizing biases and ensuring fairness throughout the decision-making process. By following these techniques, interviewers can increase their chances of selecting the most suitable candidates for the job.
 

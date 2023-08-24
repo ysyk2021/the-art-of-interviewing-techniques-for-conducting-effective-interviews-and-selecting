@@ -1,5 +1,3 @@
-Different Types of Interviews and Their Purposes
-=============================================================================================
 
 Understanding the hiring process involves identifying the different types of interviews and their purposes. By understanding the various interview formats, interviewers can select the most appropriate format for each stage of the hiring process. In this chapter, we explore the different types of interviews and their purposes.
 

@@ -1,5 +1,3 @@
-Chapter 6: Assessing Candidate Skills and Competencies
-======================================================
 
 Assessing candidate skills and competencies is a critical part of the interview process. It helps ensure that the candidate has the skills and experience necessary to perform the job effectively. This chapter will cover techniques for evaluating technical and functional skills, conducting skills assessments and tests, and using competency-based interviewing to evaluate potential.
 

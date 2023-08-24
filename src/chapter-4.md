@@ -1,5 +1,3 @@
-Chapter 4: Conducting Effective Interviews
-==========================================
 
 Conducting effective interviews is an art that requires a combination of skills including building rapport with candidates, active listening and communication techniques, and strategies for asking probing questions and eliciting detailed responses. This chapter will cover these topics in detail to help you conduct more effective interviews.
 

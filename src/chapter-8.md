@@ -1,5 +1,3 @@
-Chapter 8: Selecting the Right Candidate
-========================================
 
 Selecting the right candidate is the ultimate goal of any hiring process. It requires careful evaluation and comparison of candidates based on their skills, experience, fit with the role and organization, and other relevant factors. In this chapter, we'll discuss strategies for evaluating and comparing candidates, making informed and objective hiring decisions, and communicating effectively with candidates throughout the process.
 

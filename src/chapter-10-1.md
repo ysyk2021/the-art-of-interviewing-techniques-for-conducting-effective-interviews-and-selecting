@@ -1,5 +1,3 @@
-Summary of Key Points
-=================================
 
 Effective interviewing is critical to the success of any organization. Hiring the right candidates can lead to increased productivity and employee engagement, while hiring the wrong candidates can result in costly turnover and decreased team morale. In this book, we have discussed various techniques for conducting effective interviews and selecting the right candidates.
 
